@@ -4,7 +4,11 @@ background-color: black;
 
     }
 
-        .topico[
+        .topico{
+            background-color: blueviolet;
+        }
 
-
-        ]
+            .texto{
+                
+                background-color: blue;
+            }
